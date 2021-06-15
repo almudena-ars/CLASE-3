@@ -2,6 +2,6 @@ package com.clase3;
 
 public class main {
     public static void main(String[] args) {
-        System.out.println("Goodbye world");
+        System.out.println("hasta nunca world");
     }
 }
